@@ -37,7 +37,7 @@
 
 ## Defining The System
   ![Basic System Overview](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/blob/main/1_Requirements/System%20Design.png)
-  * Creating individual functions to implement the different algorithms for each of the functionalities.
+  * Creating individual functions to implement the different algorithms for each of the tasks e.g., Newton Raphson Method, Bisection Method, Regula Falsi Method.
   * Creating a function which calls the methods implemented based on an option.
   * Creating a main driver program to select the functionality, i.e. Finding root of a Non-linear Function, Numerical Differentiation or Numercial Integration.
   
