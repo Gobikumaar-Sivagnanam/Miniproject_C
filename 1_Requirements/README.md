@@ -22,14 +22,22 @@
   * The loops and precision can be used to iterate the algorithms in an efficient manner. 
   
 
-  ### Cost and Features
+  ## Cost and Features
 
-  #### Cost
+  ### Cost
    * Cost of the program depends on the input function and complexity of the algorithm. 
    * Cost can be calculated in terms of the computation performed and/or based on the plaform where the progam is being executed. 
 
-  #### Features:
+  ### Features:
    * The input can be improved by taking input as an abstract data type and then parsing this as a string for identification and performing the needed function on top of this string.
    * Functions can be expanded to run on any function.
    * Root Functions can be designed to find all the roots of the given non-linear function.
    * Integration and differentiation can be made to be analytical with intensive designing.
+
+
+## Defining The System
+  ![Basic System Overview](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/blob/main/1_Requirements/System%20Design.png)
+  * Creating individual functions to implement the different algorithms for each of the functionalities.
+  * Creating a function which calls the methods implemented based on an option.
+  * Creating a main driver program to select the functionality, i.e. Finding root of a Non-linear Function, Numerical Differentiation or Numercial Integration.
+  
