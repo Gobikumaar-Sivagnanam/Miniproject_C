@@ -21,3 +21,16 @@
   * C defines datatypes like double which have high precision and can be used to implement the algorithms with high accuracy. 
   * The loops and precision can be used to iterate the algorithms in an efficient manner. 
   
+
+  ### Cost and Features
+
+  #### Cost
+   * Cost of the program depends on the input function and complexity of the algorithm. 
+   * 
+
+  #### Features:
+   * The input can be improved by taking input as an abstract data type and then parsing this as a string for identification and performing the needed function on top of this string.
+   * Functions can be expanded to run on any function.
+   * Root Functions can be designed to find all the roots of the given non-linear function.
+   * Integration and differentiation can be made to be analytical with intensive designing.
+     
