@@ -21,4 +21,4 @@ run: all
 	./$(PROJ_NAME).$(EXEC)
 
 clean:
-	rm -rf $(PROJ_NAME)
+	rm -rf $(PROJ_NAME).$(EXEC)
