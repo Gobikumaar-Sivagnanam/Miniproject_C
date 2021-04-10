@@ -24,7 +24,7 @@
 
   ## Cost and Features
 
-  ### Cost
+  ### Cost:
    * Cost of the program depends on the input function and complexity of the algorithm. 
    * Cost can be calculated in terms of the computation performed and/or based on the plaform where the progam is being executed. 
 
@@ -41,3 +41,5 @@
   * Creating a function which calls the methods implemented based on an option.
   * Creating a main driver program to select the functionality, i.e. Finding root of a Non-linear Function, Numerical Differentiation or Numercial Integration.
   
+## SWOT Analysis
+![SWOT Analysis](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/blob/main/1_Requirements/SWOT%20Analysis.png)
