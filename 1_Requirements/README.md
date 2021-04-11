@@ -43,3 +43,33 @@
   
 ## SWOT Analysis
 ![SWOT Analysis](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/blob/main/1_Requirements/SWOT%20Analysis.png)
+
+# 4W&#39;s and 1&#39;H
+
+## Who:
+ * Students facing difficulty with implementation.
+ * People curious on how numerical algorithms work;
+
+## What:
+ * Using C programming to implement the numerical algorithms.
+
+## When:
+ * Thought came to my mind when I was studying Applied Numerical Methods subject during my enginnering.
+
+## Where:
+ * Open source so anyone can use it, and help in improving it.
+
+## How:
+ * Thinking about how the implementation of mumerical methods are similar to how a computer operates.
+
+ # Detailed Requirements:
+
+ ## High Level Requirements:
+ * Function to call the functionalities of finding the root, numerical integration and numerical differentiation.
+ * Functions to implement the individual Algorithms.
+
+ ## Low Level Requirements:
+
+| Function Name | Function Input | Function Description | Function Output |
+|---------------|----------------------|-----------------|---|
+| bisection.c | 
