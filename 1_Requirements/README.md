@@ -72,4 +72,7 @@
 
 | Function Name | Function Input | Function Description | Function Output |
 |---------------|----------------------|-----------------|---|
-| bisection.c | Takes 2 function pointers, one to a function and second to it's derivative | Implements the bisection algorithm which is iterative to converge on a root | Root of the function close to initial guess | 
+| newton_raphson.c | Two function pointers, one to a function and second to it's derivative | Implements the Newton Raphson algorithm which is iterative to converge on a root | Root of the function close to initial guess | 
+| bisection.c | Function pointer to a given function | Assuming a range where the function is continous to converge on a root in this range | Root of the function in a given range |
+| regula_falsi.c | Function Pointer to a given function | Takes two initial guesses and uses interpolation to reach a root | Root of the function close to the intial two guesses | 
+| root_function.c | Option to select between three functions | Function to call bisection.c, newton_raphson.c or regula_falsi.c based on an option | Calling the respective function |
