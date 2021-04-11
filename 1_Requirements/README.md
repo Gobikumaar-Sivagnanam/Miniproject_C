@@ -72,4 +72,4 @@
 
 | Function Name | Function Input | Function Description | Function Output |
 |---------------|----------------------|-----------------|---|
-| bisection.c | 
+| bisection.c | Takes 2 function pointers, one to a function and second to it's derivative | Implements the bisection algorithm which is iterative to converge on a root | Root of the function close to initial guess | 
