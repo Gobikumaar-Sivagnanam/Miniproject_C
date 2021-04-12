@@ -6,6 +6,7 @@ int main(){
     while(1){
         printf("\n\n___________________________________________________\n");
         printf("\nEnter \"-1\" to quit program or Enter \"1\" to Continue\n");
+        printf("Enter choice as described above: ");
         scanf("%d",&check);
         if(check == -1){
             break;
