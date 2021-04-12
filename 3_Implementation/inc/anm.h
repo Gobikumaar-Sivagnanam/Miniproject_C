@@ -68,4 +68,35 @@ float regula_falsi(funcptr1 function);
  */
 void root_function(char choice);
 
+/**
+ * @brief Function to implement the Simpson's 1/3 Method for numerical integration
+ * 
+ * @param [in] func Function pointer to the function which is to be integrated 
+ * @return float Numerical integration result of the function with limits
+ */
+float simpson_1_3(funcptr1 func);
+
+/**
+ * @brief Function to implement Trapezoidal method for numerical integration
+ * 
+ * @param [in] func Function pointer to a given function 
+ * @return float Result of the integration of the function within the limits
+ */
+float trapezoidal(funcptr1 func);
+
+/**
+ * @brief Function to implement Simpson's 3/8th Rule for numerical integration
+ * 
+ * @param [in] func Function pointer to a given function 
+ * @return float Result of the integration of the function within the limits
+ */
+float simpson_3_8(funcptr1 func);
+
+/**
+ * @brief Function to call the method for numerical integration
+ * 
+ * @param [in] choice To select the method 
+ */
+void numerical_integration(char choice);
+
 #endif                      ///End of Definition

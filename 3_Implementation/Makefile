@@ -1,6 +1,7 @@
 PROJ_NAME = driver
 
-SRC = src/newton_raphson.c src/bisection.c src/regula_falsi.c src/root_function.c
+SRC = src/newton_raphson.c src/bisection.c src/regula_falsi.c src/root_function.c \
+src/simpson_1_3.c src/trapezoidal.c src/simpson_3_8.c src/numerical_integration.c
 
 INC = -I inc
 
@@ -17,7 +18,7 @@ endif
 all: $(SRC)
 	gcc main.c $(SRC) $(INC) -lm -o $(PROJ_NAME).$(EXEC)
 
-run: all
+run: $(PROJ_NAME).$(EXEC)
 	./$(PROJ_NAME).$(EXEC)
 
 clean:
