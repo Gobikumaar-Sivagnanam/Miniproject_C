@@ -25,19 +25,19 @@ void root_function(char choice){
         case 'a':
             fptr1 = funcNRM;
             fptr2 = dfuncNRM;
-            printf("Newton Raphson Method\n");
+            printf("\nNewton Raphson Method\n");
             printf("Function is : x*log10(x)-1.2\n");
             printf("Root is : %f\n",newton_raphson(fptr1,fptr2));
             break;
         case 'b':
             fptr1 = funcBM;
-            printf("Bisection Method\n");
+            printf("\nBisection Method\n");
             printf("Function is : x^3 - 4*x - 9\n");
             printf("Root is : %f\n",bisection(fptr1));
             break;
         case 'c':
             fptr1 = funcRF;
-            printf("Regula Falsi Method\n");
+            printf("\nRegula Falsi Method\n");
             printf("Function is : cos(x) - x*e^x\n");
             printf("Root is : %f\n",regula_falsi(fptr1));
             break;
