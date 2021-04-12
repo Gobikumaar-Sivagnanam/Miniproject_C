@@ -39,7 +39,7 @@ void root_function(char choice){
             printf("Root is : %f\n",regula_falsi(fptr1));
             break;
         default:
-            printf("Enter Valid Choice");
+            printf("Enter Valid Choice\n");
             break;
     }
 }
