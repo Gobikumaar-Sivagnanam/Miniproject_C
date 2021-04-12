@@ -1,7 +1,8 @@
 PROJ_NAME = driver
 
 SRC = src/newton_raphson.c src/bisection.c src/regula_falsi.c src/root_function.c \
-src/simpson_1_3.c src/trapezoidal.c src/simpson_3_8.c src/numerical_integration.c
+src/simpson_1_3.c src/trapezoidal.c src/simpson_3_8.c src/numerical_integration.c \
+src/forward_difference.c src/backward_difference.c src/two_point_difference.c src/numerical_differentiation.c
 
 INC = -I inc
 

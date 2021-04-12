@@ -99,4 +99,33 @@ float simpson_3_8(funcptr1 func);
  */
 void numerical_integration(char choice);
 
+/**
+ * @brief Function to implement the Newton's Forward Difference rule on a data given
+ * 
+ * @return float Result of numerical differentiation at a point.
+ */
+float forward_difference();
+
+/**
+ * @brief Function to implement the Newton's Backward Difference rule on given dataset.
+ * 
+ * @return float Result of numerical differentiation at a point
+ */
+float backward_difference();
+
+/**
+ * @brief Function to implement Two point Difference formula
+ * 
+ * @param [in] func Function pointer to a given function 
+ * @return float Result of numerical differentiation at a point
+ */
+float two_point_difference(funcptr1 func);
+
+/**
+ * @brief Function to call the method for numerical differentiation
+ * 
+ * @param [in] choice To select the method 
+ */
+void numerical_differentiation(char choice);
+
 #endif                      ///End of Definition
