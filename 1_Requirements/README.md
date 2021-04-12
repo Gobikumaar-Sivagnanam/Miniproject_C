@@ -76,3 +76,7 @@
 | bisection.c | Function pointer to a given function | Assuming a range where the function is continous to converge on a root in this range | Root of the function in a given range |
 | regula_falsi.c | Function Pointer to a given function | Takes two initial guesses and uses interpolation to reach a root | Root of the function close to the intial two guesses | 
 | root_function.c | Option to select between three functions | Function to call bisection.c, newton_raphson.c or regula_falsi.c based on an option | Calling the respective function |
+| simpson_1_3.c | Function pointer to a given function | Takes the limit for integration and implements the Simpson's 1/3rd Rule for numerical integration | Result of the integration of function within the limits |
+| trapezoidal.c | Function pointer to a given function | Takes the limit of the function and appxoimates the function area as summation of trapezoids | Result of the integration of the function within the limits |
+| simpson_3_8.c | Function pointer to a given function | Takes the limit for integration of the function and uses the Simpson's 3/8th Rule for numerical integration | Result of the integration of the function within the limits |
+| numerical_integration.c | Option to select between the three implementations | Function to call simpson_1_3.c, trapezoidal.c or simpson_3_8.c based on the option | Calling the respective function |
