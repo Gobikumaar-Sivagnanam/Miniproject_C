@@ -83,3 +83,4 @@
 | forward_difference.c | Doesn't take any arguement | Using a dataset with value and function at the respective value to find the numerical differentiation at a point using Newton's Forward difference formula | Result of differentiation at a point |
 | backward_difference.c | Doesn't take any arguement | Using a dataset with value and function at the respective value to find the numerical differentiation at a point using Newton's Backward difference formula | Result of differentiation at a point |
 | two_point_difference.c | Function pointer to a given function | Takes the function and calculates the function value at two points then uses the two point difference formula | Result of differentiation of the function at a point |
+| numerical_differentiation.c | Option to select between the three implementations | Function to call forward_difference.c, backward_difference.c or two_point_difference.c based on the option | Calling the respective function |
