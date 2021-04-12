@@ -2,13 +2,14 @@
 
 float bisection(funcptr1 func){
     int itr=0, maxitr=20;
-    float x,a,b,allowed_error,x1;
+    float x,a,b,allowed_error;
     allowed_error=0.0005;
     a=3;
     b=2;
     x = (a+b)/2;
     itr++;
     do{
+        float x1;
         if(func(a)*func(x)<0)
             b=x;
         else

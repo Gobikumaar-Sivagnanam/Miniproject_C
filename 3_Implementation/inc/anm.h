@@ -128,4 +128,15 @@ float two_point_difference(funcptr1 func);
  */
 void numerical_differentiation(char choice);
 
+// FUNCTIONS USED FOR THE METHODS
+
+float funcRF(float x); 
+float funcNRM(float x);
+float dfuncNRM(float x);
+float funcBM(float x);
+float funcS13(float x);
+float functrap(float x);
+float funcS38(float x);
+float funcTPD(float x);
+
 #endif                      ///End of Definition

@@ -13,7 +13,7 @@ void initialize_NB(){
 }
 
 float backward_difference(){
-    float xp, h, sum = 0, result, term, limit = 0.0001;
+    float xp, h, sum = 0, result, limit = 0.0001;
     int i, j, n = 7, index, flag = 0;
     xp = 1.6;
     initialize_NB();
@@ -35,6 +35,7 @@ float backward_difference(){
     h = xnb[1] - xnb[0];
 
     for(i=1; i<=index; i++){
+        float term;
         term = pow(ynb[index][i],i)/i;
         sum += term;
     }

@@ -13,7 +13,7 @@ void initialize_NF(){
 }
 
 float forward_difference(){
-    float xp, h, sum = 0, term, result, limit = 0.0001;
+    float xp, h, sum = 0, result, limit = 0.0001;
     int i, j, n = 7, index, flag = 0, sign = 1;
     xp = 1.1;
     initialize_NF();
@@ -34,6 +34,7 @@ float forward_difference(){
     h = xnf[1] - xnf[0];    
 
     for(i=1;i<n-index;i++){
+        float term;
         term = pow(ynfd[index][i],i)/i;
         sum += sign*term;
         sign = -sign;
