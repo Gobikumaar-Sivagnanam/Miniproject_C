@@ -69,7 +69,7 @@ float regula_falsi(funcptr1 function);
 void root_function(char choice);
 
 /**
- * @brief Function to implement the Simpson's 1/3 Method for numerical integration
+ * @brief Function to implement the Simpson's 1/3rd Rule for numerical integration
  * 
  * @param [in] func Function pointer to the function which is to be integrated 
  * @return float Numerical integration result of the function with limits
