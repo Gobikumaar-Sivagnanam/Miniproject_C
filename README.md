@@ -3,9 +3,9 @@ A miniproject in C for LTTS Training
 
 
 
-`Build` |
---------|
-[![Linux C/C++ Build CI](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/Linux_c-cpp.yml/badge.svg)](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/blob/main/.github/workflows/Linux_c-cpp.yml) |
+`Build` | Code Quality |
+--------|--------------|
+[![Linux C/C++ Build CI](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/Linux_c-cpp.yml/badge.svg)](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/blob/main/.github/workflows/Linux_c-cpp.yml) | [![Static Check]][![Code Quality - Static Analysis - Cppcheck](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/cpp-check.yml/badge.svg)](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/cpp-check.yml)
 
 ## Folder Structure
 Folder               | Description
