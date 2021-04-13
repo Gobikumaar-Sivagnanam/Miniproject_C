@@ -12,7 +12,7 @@
 
 | **Test ID** | **Description** | **Exp I/P** | **Exp O/P** | **Actual O/P** | **Type Of Test** |
 |-----|-----|-----|----|-----|------|
-| L_01 | To test the Newton Raphson method implementation to find the root of a function | Two Function pointers, one to the function and other to it's derivative | 2.740646 | | 2.740646 | Scenario/Technical |
+| L_01 | To test the Newton Raphson method implementation to find the root of a function | Two Function pointers, one to the function and other to it's derivative | 2.740646 | 2.740646 | Scenario/Technical |
 | L_02 | To test the Bisection method implementation to find the root of a function | Function Pointer to a given function | 2.706543 | 2.706543 | Scenario/Technical |
 | L_03 | To test the Regula Falsi method implementation to find the root of a function | Function Pointer to a given function | 0.517727 | 0.517727 | Scenario/Technical |
 | L_04 | To test the Simpson's 1/3rd Rule implementation to find the numerical integration of a function at a point | Function Pointer to a given function | 0.510847 | 0.510847 | Scenario/Technical |
