@@ -61,7 +61,7 @@
 ## How
 *   Thinking about how the implementation of mumerical methods are similar to how a computer operates.
 
-# Detailed Requirements
+## Detailed Requirements
 
 ## High Level Requirements
 *   Function to call the functionalities of finding the root, numerical integration and numerical differentiation.
