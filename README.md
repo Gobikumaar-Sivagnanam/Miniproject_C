@@ -1,8 +1,8 @@
 # Miniproject_C (SDLC Activity Based Learning)
 A miniproject in C for LTTS Training
 
-`Build` | `Static Analysis` | `Codacy Code Quality` |
---------|-------------------|-----------------------|
+`Build` | `Static Analysis Cppcheck` | `Codacy Code Quality` |
+--------|----------------------------|-----------------------|
 [![Linux C/C++ Build CI](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/Linux_c-cpp.yml/badge.svg)](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/Linux_c-cpp.yml) | [![Code Quality - Static Analysis - Cppcheck](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/cpp-check.yml/badge.svg)](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/cpp-check.yml) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c4d73f97667d4050bc88b341571bfc1d)](https://www.codacy.com/gh/Gobikumaar-Sivagnanam/Miniproject_C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Gobikumaar-Sivagnanam/Miniproject_C&amp;utm_campaign=Badge_Grade)
 
 ## Folder Structure
