@@ -1,9 +1,12 @@
 # Miniproject_C (SDLC Activity Based Learning)
 A miniproject in C for LTTS Training
 
-`Build` | `Static Analysis Cppcheck` | `Codacy Code Quality` | `Unity Testing` |
---------|----------------------------|-----------------------|---|
-[![Linux C/C++ Build CI](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/Linux_c-cpp.yml/badge.svg)](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/Linux_c-cpp.yml) | [![Code Quality - Static Analysis - Cppcheck](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/cpp-check.yml/badge.svg)](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/cpp-check.yml) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c4d73f97667d4050bc88b341571bfc1d)](https://www.codacy.com/gh/Gobikumaar-Sivagnanam/Miniproject_C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Gobikumaar-Sivagnanam/Miniproject_C&amp;utm_campaign=Badge_Grade) | [![Unit Testing - Unity](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/unity_test.yml/badge.svg)](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/unity_test.yml) |
+Badge Name | Status |
+-----------|---------|
+Build | [![Linux C/C++ Build CI](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/Linux_c-cpp.yml/badge.svg)](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/Linux_c-cpp.yml) |
+Static Analysis Cppcheck | [![Code Quality - Static Analysis - Cppcheck](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/cpp-check.yml/badge.svg)](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/cpp-check.yml) |
+Codeacy Code Quality | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c4d73f97667d4050bc88b341571bfc1d)](https://www.codacy.com/gh/Gobikumaar-Sivagnanam/Miniproject_C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Gobikumaar-Sivagnanam/Miniproject_C&amp;utm_campaign=Badge_Grade) |
+Unity Testing | [![Unit Testing - Unity](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/unity_test.yml/badge.svg)](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/unity_test.yml) |
 
 ## Folder Structure
 Folder               | Description
