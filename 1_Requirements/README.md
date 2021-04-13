@@ -24,11 +24,11 @@
 
   ## Cost and Features
 
-  ### Cost:
+  ### Cost
    * Cost of the program depends on the input function and complexity of the algorithm. 
    * Cost can be calculated in terms of the computation performed and/or based on the plaform where the progam is being executed. 
 
-  ### Features:
+  ### Features
    * The input can be improved by taking input as an abstract data type and then parsing this as a string for identification and performing the needed function on top of this string.
    * Functions can be expanded to run on any function.
    * Root Functions can be designed to find all the roots of the given non-linear function.
@@ -62,13 +62,13 @@
 ## How:
  * Thinking about how the implementation of mumerical methods are similar to how a computer operates.
 
- # Detailed Requirements:
+ # Detailed Requirements
 
- ## High Level Requirements:
+ ## High Level Requirements
  * Function to call the functionalities of finding the root, numerical integration and numerical differentiation.
  * Functions to implement the individual Algorithms.
 
- ## Low Level Requirements:
+ ## Low Level Requirements
 
 | Function Name | Function Input | Function Description | Function Output |
 |---------------|----------------------|-----------------|---|
