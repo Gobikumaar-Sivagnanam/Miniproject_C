@@ -15,7 +15,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: build
-      run: gcc hello.c -o hello.out
-    - name: Run
-      run: ./hello.out
+    - name: make
+      run: make -C 3_Implementation/ all
