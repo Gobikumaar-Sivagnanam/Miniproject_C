@@ -7,6 +7,7 @@ Build | [![Linux C/C++ Build CI](https://github.com/Gobikumaar-Sivagnanam/Minipr
 Static Analysis Cppcheck | [![Code Quality - Static Analysis - Cppcheck](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/cpp-check.yml/badge.svg)](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/cpp-check.yml) |
 Codeacy Code Quality | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c4d73f97667d4050bc88b341571bfc1d)](https://www.codacy.com/gh/Gobikumaar-Sivagnanam/Miniproject_C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Gobikumaar-Sivagnanam/Miniproject_C&amp;utm_campaign=Badge_Grade) |
 Unity Testing | [![Unit Testing - Unity](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/unity_test.yml/badge.svg)](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/unity_test.yml) |
+[Git Inspector](using github.io option) | [![Contribution Check - Git Inspector](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/actions/workflows/gitinspector.yml) |
 
 ## Folder Structure
 Folder               | Description
