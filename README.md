@@ -22,6 +22,12 @@ Folder               | Description
 `6_ImagesAndVideos`  | Files containing working video and images
 `7_Other`            | Other supporting documents
 
+## References 
+*   C Programming and Numerical Analysis
+*   Introduction To Numerical Analysis With C Programs, Attila Mate
+*   [Code Reference Link 1](codesansar.com)
+*   [Code Reference Link 2](https://www.codewithc.com)
+
 ## Contributors List and Summary
 | SF_ID | Name | Features | Issues Raised | Issues Solved | No. of Test Cases | No. of Test Cases Passing |
 |-----|-----|-----|-----|-----|-----|-----|
