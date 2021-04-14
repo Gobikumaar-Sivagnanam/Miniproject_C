@@ -19,4 +19,4 @@ jobs:
     - name: make test
       run: make -C 3_Implementation/ all
     - name: Valgrid
-      run: valgrind ./3_Implementation/driver.out
+      run: valgrind ./3_Implementation/driver.out < 1 a
