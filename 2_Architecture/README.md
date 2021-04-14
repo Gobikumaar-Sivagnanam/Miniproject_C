@@ -10,3 +10,6 @@
 ## Low Level Design
 *   State Diagram:
 ![State Diagram](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/blob/main/2_Architecture/low_level_state_diagram.png)
+
+*   Class Diagram:
+![Class Diagram](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/blob/main/2_Architecture/class_diagram.png)
