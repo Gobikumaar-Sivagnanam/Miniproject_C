@@ -19,6 +19,6 @@ jobs:
     - name: make test
       run: make -C 3_Implementation/ all
     - name: Create text file
-      run: echo "1 a" > input.txt
+      run: echo "1 1 a" > input.txt
     - name: Valgrid
       run: valgrind ./3_Implementation/driver.out < input.txt
