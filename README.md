@@ -23,9 +23,12 @@ Folder               | Description
 ## Contributors List and Summary
 | SF_ID | Name | Features | Issues Raised | Issues Solved | No. of Test Cases | No. of Test Cases Passing |
 |-----|-----|-----|-----|-----|-----|-----|
-| 255919 | Gobikumaar Sivagnanam | All | 1 | 0 | 9 | 9 
+| 255919 | Gobikumaar Sivagnanam | All the function implementations | 1 | 0 | 9 | 9 
 
 ## Challenges Faced and How it was overcome
 | Challenge Faced | Method to overcome |
 |-----------------|--------------------|
 | Implementing 2-D array with double pointer, and accessing it | Implemented with a 2-D array declaration |
+| Writing test cases with manual functions | Kept the function constant and predefined | 
+| Taking manual functions | Proved to be very complex in terms of reading the user input, didn't implement |
+| Functions being redifined while using for testing | Declared the function in header file and Defined in respective files |
