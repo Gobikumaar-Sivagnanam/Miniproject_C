@@ -25,7 +25,7 @@ Folder               | Description
 ## References 
 *   C Programming and Numerical Analysis
 *   Introduction To Numerical Analysis With C Programs, Attila Mate
-*   [Code Reference Link 1](codesansar.com)
+*   [Code Reference Link 1](https://www.codesansar.com)
 *   [Code Reference Link 2](https://www.codewithc.com)
 
 ## Contributors List and Summary
