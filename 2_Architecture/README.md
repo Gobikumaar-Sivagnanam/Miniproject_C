@@ -4,4 +4,7 @@
 *   Architecture Design:
 ![Architecture](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/blob/main/2_Architecture/High%20Level%20Design.png) 
 
+*   Use Case Diagram:
+![Use Case Diagram](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/blob/main/2_Architecture/Use%20Case%20Diagram.png)
+
 ## Low Level Design
