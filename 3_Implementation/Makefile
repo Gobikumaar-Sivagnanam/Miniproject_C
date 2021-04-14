@@ -39,7 +39,7 @@ test: $(SRC) $(TEST_SRC)
 
 coverage: $(PROJ_NAME).$(EXEC)
 	gcc -fprofile-arcs -ftest-coverage main.c $(SRC) $(INC) -lm -o $(PROJ_NAME).$(EXEC)
-	./$(PROJ_NAME).$(EXEC)
+	./$(PROJ_NAME).$(EXEC) < input.txt
 	gcov -a main.c
 
 staticcheck: 
