@@ -31,7 +31,7 @@ Folder               | Description
 ## Contributors List and Summary
 | SF_ID | Name | Features | Issues Raised | Issues Solved | No. of Test Cases | No. of Test Cases Passing |
 |-----|-----|-----|-----|-----|-----|-----|
-| 255919 | Gobikumaar Sivagnanam | All the function implementations | 1 | 0 | 9 | 9 
+| 255919 | Gobikumaar Sivagnanam | All the function implementations | 1 | 1 | 9 | 9 
 
 ## Challenges Faced and How it was overcome
 | Challenge Faced | Method to overcome |
