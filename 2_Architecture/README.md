@@ -8,3 +8,5 @@
 ![Use Case Diagram](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/blob/main/2_Architecture/Use%20Case%20Diagram.png)
 
 ## Low Level Design
+*   State Diagram:
+![State Diagram](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/blob/main/2_Architecture/low_level_state_diagram.png)
