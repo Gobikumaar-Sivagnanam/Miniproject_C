@@ -46,7 +46,7 @@ staticcheck:
 	cppcheck --enable=all --suppress=missingIncludeSystem main.c $(SRC) inc/anm.h $(INC)
 
 memcheck:
-	valgrind ./$(PROJ_NAME).$(EXEC)
+	valgrind ./$(PROJ_NAME).$(EXEC) < input.txt
 
 clean:
 	$(RM) *.$(EXEC) *.gcov *.gcda *.gcno 
