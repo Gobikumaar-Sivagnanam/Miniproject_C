@@ -9,4 +9,3 @@
 | `unity` | Contains files for using the unity testing framework |
 | `input.txt` | Input text file for automating giving user input |
 | `Makefile`  | Makefile |
-
