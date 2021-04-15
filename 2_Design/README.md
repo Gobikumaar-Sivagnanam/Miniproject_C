@@ -2,14 +2,14 @@
 
 ## High Level Design
 *   Architecture Design:
-![Architecture](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/blob/main/2_Architecture/High%20Level%20Design.png) 
+![Architecture](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/blob/main/2_Design/High%20Level%20Design.png) 
 
 *   Use Case Diagram:
-![Use Case Diagram](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/blob/main/2_Architecture/Use%20Case%20Diagram.png)
+![Use Case Diagram](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/blob/main/2_Design/Use%20Case%20Diagram.png)
 
 ## Low Level Design
 *   State Diagram:
-![State Diagram](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/blob/main/2_Architecture/low_level_state_diagram.png)
+![State Diagram](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/blob/main/2_Design/low_level_state_diagram.png)
 
 *   Class Diagram:
-![Class Diagram](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/blob/main/2_Architecture/class_diagram.png)
+![Class Diagram](https://github.com/Gobikumaar-Sivagnanam/Miniproject_C/blob/main/2_Design/class_diagram.png)
