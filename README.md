@@ -22,7 +22,7 @@ Folder               | Description
 `6_ImagesAndVideos`  | Files containing working video and images
 `7_Other`            | Other supporting documents
 
-## References 
+## References for mumerical methods implementations in C
 *   C Programming and Numerical Analysis
 *   Introduction To Numerical Analysis With C Programs, Attila Mate
 *   [Code Reference Link 1](https://www.codesansar.com)
