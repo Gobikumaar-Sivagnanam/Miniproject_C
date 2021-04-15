@@ -15,12 +15,9 @@ Git Inspector(using github.io option) | [![Contribution Check - Git Inspector](h
 Folder               | Description
 ---------------------|---------------------------------------------------
 `1_Requirements`     | Files detailing requirements and research done
-`2_Architecture`     | Documents detailing the architecture used
+`2_Design`     | Documents detailing the architecture used
 `3_Implementation`   | All code and relevant documentation
-`4_TestPlanAndOutput`| Documents with test plan and output
-`5_Report`           | Report on the implemented C Miniproject
-`6_ImagesAndVideos`  | Files containing working video and images
-`7_Other`            | Other supporting documents
+`4_TestPlan` | Documents with test plan and output
 
 ## References for mumerical methods implementations in C
 *   C Programming and Numerical Analysis
